@@ -6,7 +6,7 @@
 # See: https://github.com/github/gitignore/tree/main/Global
 #
 .utmp/
-/[Ll]ibrary/
+[Ll]ibrary
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -104,3 +104,4 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+.vscode
